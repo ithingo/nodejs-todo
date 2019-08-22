@@ -1,0 +1,17 @@
+{
+  "name": "cg_backend_node",
+  "version": "0.1.0",
+  "description": "Backend part for Code Generation system",
+  "main": "app.js",
+  "author": "Handwriting Zero Team",
+  "license": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.10",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
